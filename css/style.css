@@ -7858,7 +7858,9 @@ h1, h2, h3, h4, h5,
         color: #fac564; }
 
 .ftco-gallery {
-  padding-top: 7em; }
+  padding-top: 7px;
+  padding-bottom:94px;
+}
 
 .gallery {
   display: block;
